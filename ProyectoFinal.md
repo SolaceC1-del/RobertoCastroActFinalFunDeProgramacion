@@ -1,3 +1,9 @@
+ALUMNO: Roberto Andres Castro Mendoza
+grupo : B
+
+Actividad Final de Unidad. Glosario de conceptos
+
+
 Parte 1. Fundamentos de programación
 
 1. Algoritmo	  	
